@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Meme Creater</string>
+    <string name="CreateMeme">Create Meme</string>
+    <string name="topMemeText">topMemeText</string>
+    <string name="bottomMemeText">bottomMemeText</string>
+    <string name="ayushi_image">Ayushi</string>
+    <string name="tanzeem_image">Tanzeem</string>
+    <string name="shireen_image">Vadali</string>
+    <string name="vadali_image">Vadali</string>
+    <string name="First">First</string>
+    <string name="Second">Second</string>
+    <string name="Third">Third</string>
+
+</resources>

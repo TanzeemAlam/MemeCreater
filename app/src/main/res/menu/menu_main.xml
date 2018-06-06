@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id ="@+id/menu_tanzeem"
+            android:orderInCategory="1"
+            android:title="@string/First"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menu_ayushi"
+            android:orderInCategory="2"
+            android:title="@string/Second"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/menu_vadali"
+            android:orderInCategory="3"
+            android:title="@string/Third"
+            app:showAsAction="never" />
+
+    </group>
+</menu>
